@@ -1,5 +1,3 @@
-# Slushi3
-Hi, I'm **Slushi3**.
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=Slushi3&theme=github-dark&mode=light" />
